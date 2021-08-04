@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shad-509
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning Git, Github, React, JavaScript, and html5 plus css3
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Anything to help me learn how to Become a professional web developer...
 - 📫 How to reach me ...shad@dehartswebdesign.com
 
 <!---
